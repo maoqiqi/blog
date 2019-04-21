@@ -8,4 +8,5 @@
   * [RadioGroup + ViewPager + Fragment 模板](https://github.com/maoqiqi/DevelopmentArms/tree/master/RadioGroup+ViewPager+Fragment)
   * [TabLayout + ViewPager + Fragment 模板](https://github.com/maoqiqi/DevelopmentArms/tree/master/TabLayout+ViewPager+Fragment)
   * [自定义懒加载Fragment](https://github.com/maoqiqi/LazyLoad)
+* [Android 全新支持库 androidx](https://github.com/maoqiqi/AndroidX)
 * [签署您的应用](https://github.com/maoqiqi/AndroidSign/blob/master/README.md)
